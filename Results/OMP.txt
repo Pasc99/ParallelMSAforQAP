@@ -1,0 +1,252 @@
+==============================================
+Instance: nug16a
+T_0 = 300, T_end = 0.1, alpha = 0.95
+Number of repetition: 3000
+Number of trials: 300
+Number of parallel Markov chains: 4
+Starting time: 2023-01-27 12:46:59
+Method: PMSA
+Success rate: 93%
+fbest: 1610
+mean:1610.3
+relative error: 0.0186335%
+worst: 1622
+CPU time per trial: 0.517754[s]
+Ending time: 2023-01-27 12:49:35
+==============================================
+
+
+==============================================
+Instance: nug16a
+T_0 = 300, T_end = 0.1, alpha = 0.95
+Number of repetition: 3000
+Number of trials: 300
+Number of parallel Markov chains: 8
+Starting time: 2023-01-26 19:41:59
+Method: PMSA
+Success rate: 100%
+fbest: 1610
+mean:1610
+relative error: 0%
+worst: 1610
+CPU time per trial: 0.69425[s]
+Ending time: 2023-01-26 19:45:28
+==============================================
+
+
+==============================================
+Instance: nug16a
+T_0 = 300, T_end = 0.1, alpha = 0.95
+Number of repetition: 3000
+Number of trials: 300
+Number of parallel Markov chains: 16
+Starting time: 2023-01-26 19:45:28
+Method: PMSA
+Success rate: 100%
+fbest: 1610
+mean:1610
+relative error: 0%
+worst: 1610
+CPU time per trial: 1.12936[s]
+Ending time: 2023-01-26 19:51:08
+==============================================
+
+
+==============================================
+Instance: nug30
+T_0 = 50000, T_end = 1, alpha = 0.95
+Number of repetition: 9000
+Number of trials: 300
+Number of parallel Markov chains: 8
+Starting time: 2023-01-26 19:51:08
+Method: PMSA
+Success rate: 58%
+fbest: 6124
+mean:6125.79
+relative error: 0.0291748%
+worst: 6140
+CPU time per trial: 4.78097[s]
+Ending time: 2023-01-26 20:15:08
+==============================================
+
+
+==============================================
+Instance: nug30
+T_0 = 50000, T_end = 1, alpha = 0.95
+Number of repetition: 9000
+Number of trials: 300
+Number of parallel Markov chains: 16
+Starting time: 2023-01-26 20:15:08
+Method: PMSA
+Success rate: 85%
+fbest: 6124
+mean:6124.6
+relative error: 0.00979752%
+worst: 6128
+CPU time per trial: 7.279[s]
+Ending time: 2023-01-26 20:51:39
+==============================================
+
+
+==============================================
+Instance: nug30
+T_0 = 50000, T_end = 1, alpha = 0.95
+Number of repetition: 9000
+Number of trials: 300
+Number of parallel Markov chains: 24
+Starting time: 2023-01-26 20:51:39
+Method: PMSA
+Success rate: 92.3333%
+fbest: 6124
+mean:6124.31
+relative error: 0.00500762%
+worst: 6128
+CPU time per trial: 10.8883[s]
+Ending time: 2023-01-26 21:46:17
+==============================================
+
+
+==============================================
+Instance: nug30
+T_0 = 50000, T_end = 1, alpha = 0.95
+Number of repetition: 9000
+Number of trials: 300
+Number of parallel Markov chains: 48
+Starting time: 2023-01-26 21:46:17
+Method: PMSA
+Success rate: 99.6667%
+fbest: 6124
+mean:6124.01
+relative error: 0.000217723%
+worst: 6128
+CPU time per trial: 21.0215[s]
+Ending time: 2023-01-26 23:31:45
+==============================================
+
+
+==============================================
+Instance: tai25a
+T_0 = 200000, T_end = 500, alpha = 0.95
+Number of repetition: 6250
+Number of trials: 300
+Number of parallel Markov chains: 8
+Starting time: 2023-01-26 23:31:45
+Method: PMSA
+Success rate: 4%
+fbest: 1167256
+mean:1.17929e+06
+relative error: 1.03126%
+worst: 1.19013e+06
+CPU time per trial: 1.20955[s]
+Ending time: 2023-01-26 23:37:50
+==============================================
+
+
+==============================================
+Instance: tai25a
+T_0 = 200000, T_end = 500, alpha = 0.95
+Number of repetition: 6250
+Number of trials: 300
+Number of parallel Markov chains: 16
+Starting time: 2023-01-26 23:37:50
+Method: PMSA
+Success rate: 9%
+fbest: 1167256
+mean:1.17651e+06
+relative error: 0.792589%
+worst: 1.18563e+06
+CPU time per trial: 2.35233[s]
+Ending time: 2023-01-26 23:49:38
+==============================================
+
+
+==============================================
+Instance: tai25a
+T_0 = 200000, T_end = 500, alpha = 0.95
+Number of repetition: 6250
+Number of trials: 300
+Number of parallel Markov chains: 32
+Starting time: 2023-01-26 23:49:38
+Method: PMSA
+Success rate: 12%
+fbest: 1167256
+mean:1.17442e+06
+relative error: 0.613599%
+worst: 1.18428e+06
+CPU time per trial: 4.7276[s]
+Ending time: 2023-01-27 00:13:21
+==============================================
+
+
+==============================================
+Instance: tai25a
+T_0 = 200000, T_end = 500, alpha = 0.95
+Number of repetition: 6250
+Number of trials: 300
+Number of parallel Markov chains: 64
+Starting time: 2023-01-27 00:13:21
+Method: PMSA
+Success rate: 25%
+fbest: 1167256
+mean:1.17218e+06
+relative error: 0.422049%
+worst: 1.1796e+06
+CPU time per trial: 9.26089[s]
+Ending time: 2023-01-27 00:59:48
+==============================================
+
+
+==============================================
+Instance: tai50b
+T_0 = 1e+08, T_end = 1000, alpha = 0.95
+Number of repetition: 25000
+Number of trials: 300
+Number of parallel Markov chains: 8
+Starting time: 2023-01-27 00:59:48
+Method: PMSA
+Success rate: 12%
+fbest: 458821517
+mean:4.58988e+08
+relative error: 0.0363314%
+worst: 4.60545e+08
+CPU time per trial: 14.8165[s]
+Ending time: 2023-01-27 02:14:09
+==============================================
+
+
+==============================================
+Instance: tai50b
+T_0 = 1e+08, T_end = 1000, alpha = 0.95
+Number of repetition: 25000
+Number of trials: 300
+Number of parallel Markov chains: 16
+Starting time: 2023-01-27 02:14:09
+Method: PMSA
+Success rate: 30%
+fbest: 458821517
+mean:4.58854e+08
+relative error: 0.0069879%
+worst: 4.59819e+08
+CPU time per trial: 29.7322[s]
+Ending time: 2023-01-27 04:43:20
+==============================================
+
+
+==============================================
+Instance: tai50b
+T_0 = 1e+08, T_end = 1000, alpha = 0.95
+Number of repetition: 25000
+Number of trials: 300
+Number of parallel Markov chains: 32
+Starting time: 2023-01-27 04:43:20
+Method: PMSA
+Success rate: 43%
+fbest: 458821517
+mean:4.5883e+08
+relative error: 0.00191277%
+worst: 4.58952e+08
+CPU time per trial: 58.3219[s]
+Ending time: 2023-01-27 09:35:56
+==============================================
+
+

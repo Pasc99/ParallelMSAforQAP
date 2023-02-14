@@ -1,0 +1,70 @@
+==============================================
+Instance: nug16a
+T_0 = 300, T_end = 0.1, alpha = 0.95
+Number of repetition: 3000
+Number of trials: 300
+Number of serial Markov chains: 1
+Starting time: 2023-01-25 12:20:17
+Method: SMSA
+Success rate: 47.3333%
+fbest: 1610
+mean:1615.85
+relative error: 0.363561%
+worst: 1634
+CPU time per trial: 0.389274[s]
+Ending time: 2023-01-25 12:22:14
+==============================================
+
+
+==============================================
+Instance: nug30
+T_0 = 50000, T_end = 1, alpha = 0.95
+Number of repetition: 9000
+Number of trials: 300
+Number of serial Markov chains: 1
+Starting time: 2023-01-25 12:22:14
+Method: SMSA
+Success rate: 11%
+fbest: 6124
+mean:6142.14
+relative error: 0.296212%
+worst: 6190
+CPU time per trial: 2.59875[s]
+Ending time: 2023-01-25 12:35:17
+==============================================
+
+
+==============================================
+Instance: tai25a
+T_0 = 200000, T_end = 500, alpha = 0.95
+Number of repetition: 6250
+Number of trials: 300
+Number of serial Markov chains: 1
+Starting time: 2023-01-25 12:35:17
+Method: SMSA
+Success rate: 0.666667%
+fbest: 1167256
+mean:1.189e+06
+relative error: 1.86319%
+worst: 1.20795e+06
+CPU time per trial: 0.855099[s]
+Ending time: 2023-01-25 12:39:34
+==============================================
+
+
+==============================================
+Instance: tai50b
+T_0 = 1e+08, T_end = 1000, alpha = 0.95
+Number of repetition: 25000
+Number of trials: 300
+Number of serial Markov chains: 1
+Starting time: 2023-01-25 12:39:34
+Method: SMSA
+Success rate: 2.66667%
+fbest: 458821517
+mean:4.60776e+08
+relative error: 0.425943%
+worst: 4.76087e+08
+CPU time per trial: 11.6185[s]
+Ending time: 2023-01-25 13:37:51
+==============================================
